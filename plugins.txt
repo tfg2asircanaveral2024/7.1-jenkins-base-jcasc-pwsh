@@ -18,6 +18,7 @@ ldap
 pam-auth
 pipeline-github-lib
 pipeline-stage-view
+ssh-agent
 ssh-slaves
 workflow-aggregator
 workflow-cps:3894.3896.vca_2c931e7935
